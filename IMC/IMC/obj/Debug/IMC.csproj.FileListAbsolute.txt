@@ -1,0 +1,10 @@
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\Angsa\Documentos\3\POO\2\IMC\IMC\obj\Debug\IMC.pdb
